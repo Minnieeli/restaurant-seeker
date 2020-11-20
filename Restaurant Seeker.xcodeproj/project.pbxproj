@@ -13,6 +13,7 @@
 		371D1E0925645AF300E766E0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 371D1E0825645AF300E766E0 /* Preview Assets.xcassets */; };
 		371D1E1425645AF300E766E0 /* Restaurant_SeekerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 371D1E1325645AF300E766E0 /* Restaurant_SeekerTests.swift */; };
 		371D1E1F25645AF300E766E0 /* Restaurant_SeekerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 371D1E1E25645AF300E766E0 /* Restaurant_SeekerUITests.swift */; };
+		373BF527256742F3008EA5A1 /* Wheel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 373BF526256742F3008EA5A1 /* Wheel.swift */; };
 		37944C63256465F8008E0808 /* Utils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37944C62256465F8008E0808 /* Utils.swift */; };
 		37944C682564662E008E0808 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37944C672564662E008E0808 /* Restaurant.swift */; };
 /* End PBXBuildFile section */
@@ -47,6 +48,7 @@
 		371D1E1A25645AF300E766E0 /* Restaurant SeekerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Restaurant SeekerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		371D1E1E25645AF300E766E0 /* Restaurant_SeekerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant_SeekerUITests.swift; sourceTree = "<group>"; };
 		371D1E2025645AF300E766E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		373BF526256742F3008EA5A1 /* Wheel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Wheel.swift; sourceTree = "<group>"; };
 		37944C62256465F8008E0808 /* Utils.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utils.swift; sourceTree = "<group>"; };
 		37944C672564662E008E0808 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -106,6 +108,7 @@
 				371D1E0725645AF300E766E0 /* Preview Content */,
 				37944C62256465F8008E0808 /* Utils.swift */,
 				37944C672564662E008E0808 /* Restaurant.swift */,
+				373BF526256742F3008EA5A1 /* Wheel.swift */,
 			);
 			path = "Restaurant Seeker";
 			sourceTree = "<group>";
@@ -268,6 +271,7 @@
 				37944C682564662E008E0808 /* Restaurant.swift in Sources */,
 				371D1E0425645AF000E766E0 /* ContentView.swift in Sources */,
 				371D1E0225645AF000E766E0 /* Restaurant_SeekerApp.swift in Sources */,
+				373BF527256742F3008EA5A1 /* Wheel.swift in Sources */,
 				37944C63256465F8008E0808 /* Utils.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
